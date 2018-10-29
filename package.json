@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/agaogao/background-generator/issues"
   },
-  "homepage": "https://github.com/agaogao/background-generator#readme"
+  "homepage": "https://github.com/agaogao/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
